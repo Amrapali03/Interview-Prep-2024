@@ -1,5 +1,7 @@
 '''
-Question: 
+Question:
+
+
 
 '''
 
@@ -15,9 +17,7 @@ class Solution:
     
 def main():
     solutionObj = Solution();
-
     print (solutionObj.containsDuplicate([1,8,6,8]))
-    print (solutionObj)
 
 if __name__ == '__main__':
     main()

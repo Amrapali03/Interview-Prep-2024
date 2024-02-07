@@ -30,9 +30,10 @@ Constraints:
 0 <= strs[i].length <= 100
 strs[i] consists of lowercase English letters.
 '''
+from collections import defaultdict
 
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+    def groupAnagrams(self, strs):
         # do not take sort as it will belong m.n logn
         # mapping charcount to list of anagrams
         res = defaultdict(list)
@@ -52,4 +53,9 @@ class Solution:
 
 
 
-        
+def main():
+    solutionObj = Solution()
+    print(solutionObj.groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
+
+if __name__ == '__main__':
+    main()

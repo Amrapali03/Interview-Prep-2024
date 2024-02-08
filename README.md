@@ -7,6 +7,5 @@
 - Two Sum (./Hashing/TwoSum.py)
 - Group Anagrams (./Hashing/GroupAnagrams.py)
 - Top K Frequent Elements (./Hashing/TopKFrequentElements.py)
-- Product of Array except Self
-- Encode and Decode Strings
-- Longest consecutive Sequence
+- Longest consecutive Sequence (./Hashing/longestConsecutive.py)
+- Product of Array Except Self (./Hashing/productExceptSelf.py)

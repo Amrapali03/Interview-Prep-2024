@@ -1,8 +1,8 @@
 # Interview Prep
 
 ## Arrays
-
 - [Contains Duplicate](./Array/ContainsDuplicate.py)
+
 ### Two Pointer
 - [Two Sum II - Input Array Is Sorted](./Array/Two%20Pointer/TwoSumIISortedInput.py)
 - [Valid Palindrome](./Array/Two%20Pointer/validPalindrome.py)

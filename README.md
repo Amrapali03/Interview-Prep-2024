@@ -14,7 +14,6 @@
 - [Two Sum](./Hashing/TwoSum.py)
 - [Group Anagrams](./Hashing/GroupAnagrams.py)
 - [Top K Frequent Elements](./Hashing/TopKFrequentElements.py)
-- [Longest consecutive Sequence](./Hashing/longestConsecutive.py)
 - [Product of Array Except Self](./Hashing/productExceptSelf.py)
 
 ## Stack
@@ -24,3 +23,4 @@
 - [Evaluate Reverse Polish Notation](./Stack/evalRPN.py)
 - [Car Fleet](./Stack/carFleet.py)
 - [Daily Temperatures](./Stack/dailyTemp.py)
+- [Longest consecutive Sequence](./Hashing/longestConsecutive.py)

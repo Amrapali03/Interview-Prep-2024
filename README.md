@@ -22,3 +22,5 @@
 - [Valid Parenthesis](./Stack/validParenthesis.py)
 - [Generate Parenthesis](./Stack/generateParenthesis.py)
 - [Evaluate Reverse Polish Notation](./Stack/evalRPN.py)
+- [Car Fleet](./Stack/carFleet.py)
+- [Daily Temperatures](./Stack/dailyTemp.py)

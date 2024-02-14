@@ -23,3 +23,9 @@
 - [Evaluate Reverse Polish Notation](./Stack/evalRPN.py)
 - [Car Fleet](./Stack/carFleet.py)
 - [Daily Temperatures](./Stack/dailyTemp.py)
+- [Longest Valid Parenthesis](./Stack/longestValidParenthesis.py)
+
+## Binary Search
+- [Binary Search](./BinarySearch/binarySearch.py)
+- [Koko Eating Bananas](./BinarySearch/minEatingSpeed.py)
+- [Search a 2D Matrix](./BinarySearch/searchMatrix.py)

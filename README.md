@@ -14,8 +14,8 @@
 - [Two Sum](./Hashing/TwoSum.py)
 - [Group Anagrams](./Hashing/GroupAnagrams.py)
 - [Top K Frequent Elements](./Hashing/TopKFrequentElements.py)
-- [Longest consecutive Sequence](./Hashing/longestConsecutive.py)
 - [Product of Array Except Self](./Hashing/productExceptSelf.py)
+- [Longest consecutive sequence](./Hashing/longestConsecutive.py)
 
 ## Stack
 - [Minimum Stack](./Stack/minStack.py)

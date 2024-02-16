@@ -30,3 +30,6 @@
 - [Binary Search](./BinarySearch/binarySearch.py)
 - [Koko Eating Bananas](./BinarySearch/minEatingSpeed.py)
 - [Search a 2D Matrix](./BinarySearch/searchMatrix.py)
+- [Find minimum in Rotated Sorted Array](./BinarySearch/minRotatedSortedArray.py)
+- [Search In Rotated Sorted Array](./BinarySearch/searchRoatedSorted.py)
+- [Time Based Key-Value Store](./BinarySearch/timeMap.py)

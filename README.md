@@ -9,6 +9,9 @@
 - [Valid Palindrome](./Array/Two%20Pointer/validPalindrome.py)
 - [Container With Most Water](./Array/Two%20Pointer/maxArea.py)
 
+### Sliding Window
+- [Maximum Subarray Sum of Size K](./Array/Sliding%20Window/maxSumSubarraySizeK.py)
+- [Maximum Size Subarray of Sum equal to K](./Array/Sliding%20Window/maxSizeSubarraySumIsK.py)
 ## Hashing
 - [Valid Anagram](./Hashing/ValidAnagram.py)
 - [Two Sum](./Hashing/TwoSum.py)

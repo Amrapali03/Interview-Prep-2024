@@ -15,7 +15,7 @@ class Solution:
         j = 0
         newsum = 0
         res = 0
-        
+            
         while (j < len(nums)):
             newsum = newsum + nums[j]
             

@@ -2,7 +2,7 @@
 
 ## Arrays
 - [Contains Duplicate](./Array/ContainsDuplicate.py)
--[Encode Decode](./Array/encodeDecode.py)
+- [Encode Decode](./Array/encodeDecode.py)
 
 ### Two Pointer
 - [Two Sum II - Input Array Is Sorted](./Array/Two%20Pointer/TwoSumIISortedInput.py)
@@ -40,3 +40,10 @@
 - [Find minimum in Rotated Sorted Array](./BinarySearch/minRotatedSortedArray.py)
 - [Search In Rotated Sorted Array](./BinarySearch/searchRoatedSorted.py)
 - [Time Based Key-Value Store](./BinarySearch/timeMap.py)
+
+## Tree
+- [TreeNode](./Tree/TreeNode.py)
+- [Binary Search Tree](./Tree/BinarySearchTreeInorder.py)
+- [Maximum Depth](./Tree/maxdepth.py)
+- [Same Tree](./Tree/sameTree.py)
+- [Subtree of Another Tree](./Tree/subtreeOfAnotherTree.py)

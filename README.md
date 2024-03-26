@@ -3,6 +3,7 @@
 ## Arrays
 - [Contains Duplicate](./Array/ContainsDuplicate.py)
 - [Encode Decode](./Array/encodeDecode.py)
+- [Concatenation of Array](./Array/concatenationOfArray.py)
 
 ### Two Pointer
 - [Two Sum II - Input Array Is Sorted](./Array/Two%20Pointer/TwoSumIISortedInput.py)

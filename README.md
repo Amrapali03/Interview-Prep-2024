@@ -7,6 +7,8 @@
 - [Is Subsequence](./Array/IsSubsequence.py)
 - [Length of last word](./Array/LengthOfLastWord.py)
 - [Longest Common Prefix](./Array/longestCommonPrefix.py)
+- [Replace Elements with Greatest element from Right](./Array/replaceElementswithGreatestElementonRight.py)
+- [Remove Element](./Array/removeElement.py)
 
 ### Two Pointer
 - [Two Sum II - Input Array Is Sorted](./Array/Two%20Pointer/TwoSumIISortedInput.py)

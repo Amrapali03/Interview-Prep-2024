@@ -6,6 +6,7 @@
 - [Concatenation of Array](./Array/concatenationOfArray.py)
 - [Is Subsequence](./Array/IsSubsequence.py)
 - [Length of last word](./Array/LengthOfLastWord.py)
+- [Longest Common Prefix](./Array/longestCommonPrefix.py)
 
 ### Two Pointer
 - [Two Sum II - Input Array Is Sorted](./Array/Two%20Pointer/TwoSumIISortedInput.py)
